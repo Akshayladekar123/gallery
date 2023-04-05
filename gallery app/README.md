@@ -1,0 +1,1 @@
+This project has been created along with Firebase. Please install node version v16 before running this app.
